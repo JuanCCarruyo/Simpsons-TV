@@ -11,6 +11,8 @@ https://paypal.me/JuanCarruyo (Global)
 
 Hosting de los episodios cortesia de https://simpsonitos.xyz/
 
+![image](https://user-images.githubusercontent.com/20321832/134812751-23b209c5-1057-44d0-a7ce-ca784fc949a4.png)
+
 _________________________________________________________________________________
 
 Los Simpsons es propiedad de The Walt Disney Company y sus distribuidores.

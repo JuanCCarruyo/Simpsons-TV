@@ -1,5 +1,5 @@
 # Los Simpsons TV App
-App para reproducir un episodio aleatorio de las temporadas de Los Simpsons seleccionada
+App no oficial para reproducir un episodio aleatorio de las temporadas de Los Simpsons seleccionada
 
 ¿Disfrutando la app? Invitame un cafecito https://cafecito.app/juancarruyo
 

@@ -6,6 +6,7 @@ App para reproducir un episodio aleatorio de las temporadas de Los Simpsons sele
 
 Hosting de los episodios cortesia de https://simpsonitos.xyz/
 
+_________________________________________________________________________________
 
 Los Simpsons es propiedad de Disney y todos sus distribuidores.
 

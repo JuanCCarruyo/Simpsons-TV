@@ -9,6 +9,6 @@ Hosting de los episodios cortesia de https://simpsonitos.xyz/
 
 _________________________________________________________________________________
 
-Los Simpsons es propiedad de Disney y todos sus distribuidores.
+Los Simpsons es propiedad de The Walt Disney Company y sus distribuidores.
 
 The Simpsons™ & © 2021 20th Century Studios.

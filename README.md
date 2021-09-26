@@ -1,6 +1,6 @@
 # Los Simpsons TV App (FAN APP)
 App no oficial para reproducir un episodio aleatorio de las temporadas de Los Simpsons seleccionada.
-Solo descarga y corre el archivo .msi para instalar la app y disfruta :)
+Solo descarga (haciendo clic derecho y guardando el enlace .msi) y corre el archivo instalar la app y disfruta :)
 
 ¿Disfrutando la app? Invitame un cafecito 
 
